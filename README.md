@@ -5,7 +5,7 @@ Repository for the paper ["Exciting Action: Investigating Efficient Exploration 
 __Abstract:__ Learning a locomotion controller for a muscu- loskeletal system is challenging due to over-actuation and high- dimensional action space. While many reinforcement learning methods attempt to address this issue, they often struggle to learn human-like gaits because of the complexity involved in engineering an effective reward function. In this paper, we demonstrate that adversarial imitation learning can address this issue by analyzing key problems and providing solutions using both current literature and novel techniques. We vali- date our methodology by learning walking and running gaits on a simulated humanoid model with 16 degrees of free- dom and 92 Muscle-Tendon Units, achieving natural-looking gaits with only a few demonstrations.
 
 <p align="center">
-  <img src="https://github.com/henriTUD/musculoco_learning/blob/main/assets/exciting_action_supp_gif.gif" width=400>
+  <img src="https://github.com/henriTUD/musculoco_learning/blob/main/assets/exciting_action_supp_gif.gif" width=500>
 </p>
 
 ---
