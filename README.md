@@ -2,6 +2,10 @@
 
 Repository for the paper ["Exciting Action: Investigating Efficient Exploration for Learning Musculoskeletal Humanoid Locomotion"](https://arxiv.org/pdf/2407.11658).
 
+<p align="center">
+  <img src="https://github.com/henriTUD/musculoco_learning/blob/main/assets/exciting_action_supp_gif.gif" width=400>
+</p>
+
 ---
 ## Project Structure
 
